@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerialPortDeviceControlApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cc30a2114eb9cf6f399978310d088b6a768dedd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d56d17eb81f33cedeb887b0c2b69d9213ecbbedf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerialPortDeviceControlApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerialPortDeviceControlApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
